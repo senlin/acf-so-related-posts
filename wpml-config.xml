@@ -1,0 +1,7 @@
+<wpml-config>
+    <admin-texts>
+        <key name="acfsorp_options">
+	        <key name="acfsorp_title" />
+        </key>
+    </admin-texts>    
+</wpml-config>
